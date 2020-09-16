@@ -1,0 +1,374 @@
+{
+ "images": [
+  {
+   "file": "/content/drive/My Drive/CCT_Data/Random/5a0fd1a8-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "max_detection_conf": 0.997,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.997,
+     "bbox": [
+      0.2782,
+      0.4773,
+      0.1872,
+      0.1278
+     ]
+    }
+   ]
+  },
+  {
+   "file": "/content/drive/My Drive/CCT_Data/Random/59ddc2d4-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "max_detection_conf": 0.998,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.998,
+     "bbox": [
+      0.1623,
+      0.6801,
+      0.1542,
+      0.1585
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.138,
+     "bbox": [
+      0.9836,
+      0.47,
+      0.01436,
+      0.04858
+     ]
+    }
+   ]
+  },
+  {
+   "file": "/content/drive/My Drive/CCT_Data/Random/5a0e34b9-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "max_detection_conf": 0.99,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.99,
+     "bbox": [
+      0.4189,
+      0.4342,
+      0.1046,
+      0.07042
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.479,
+     "bbox": [
+      0.3678,
+      0.3758,
+      0.1245,
+      0.0847
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.345,
+     "bbox": [
+      0.4573,
+      0.4307,
+      0.07192,
+      0.07277
+     ]
+    }
+   ]
+  },
+  {
+   "file": "/content/drive/My Drive/CCT_Data/Random/59dc2803-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "max_detection_conf": 0.997,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.997,
+     "bbox": [
+      0.8636,
+      0.6554,
+      0.1351,
+      0.1798
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.985,
+     "bbox": [
+      0.8753,
+      0.4936,
+      0.1079,
+      0.1083
+     ]
+    }
+   ]
+  },
+  {
+   "file": "/content/drive/My Drive/CCT_Data/Random/58629317-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "max_detection_conf": 0.999,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.999,
+     "bbox": [
+      0.3824,
+      0.3075,
+      0.1481,
+      0.2259
+     ]
+    }
+   ]
+  },
+  {
+   "file": "/content/drive/My Drive/CCT_Data/Random/59eab7e1-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "max_detection_conf": 0.155,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.155,
+     "bbox": [
+      0.4635,
+      0.8753,
+      0.04122,
+      0.04771
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.104,
+     "bbox": [
+      0.4587,
+      0.8623,
+      0.1039,
+      0.06499
+     ]
+    }
+   ]
+  },
+  {
+   "file": "/content/drive/My Drive/CCT_Data/Random/59ddc2c9-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "max_detection_conf": 0.997,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.997,
+     "bbox": [
+      0.6355,
+      0.5709,
+      0.1104,
+      0.2657
+     ]
+    }
+   ]
+  },
+  {
+   "file": "/content/drive/My Drive/CCT_Data/Random/59e91924-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "/content/drive/My Drive/CCT_Data/Random/59e43f9e-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "max_detection_conf": 0.889,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.889,
+     "bbox": [
+      0.2002,
+      0.9579,
+      0.125,
+      0.04086
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.642,
+     "bbox": [
+      0.07817,
+      0.9419,
+      0.2254,
+      0.05768
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.366,
+     "bbox": [
+      0.06551,
+      0.9173,
+      0.2703,
+      0.07895
+     ]
+    }
+   ]
+  },
+  {
+   "file": "/content/drive/My Drive/CCT_Data/Random/5a0c9d83-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "max_detection_conf": 0.999,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.999,
+     "bbox": [
+      0.06484,
+      0.789,
+      0.3174,
+      0.2067
+     ]
+    }
+   ]
+  },
+  {
+   "file": "/content/drive/My Drive/CCT_Data/Random/59e918d6-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "max_detection_conf": 0.992,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.992,
+     "bbox": [
+      0.7597,
+      0.3927,
+      0.1164,
+      0.1263
+     ]
+    }
+   ]
+  },
+  {
+   "file": "/content/drive/My Drive/CCT_Data/Random/5a0b01ad-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "max_detection_conf": 0.999,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.999,
+     "bbox": [
+      0.4007,
+      0.4122,
+      0.1702,
+      0.1492
+     ]
+    }
+   ]
+  },
+  {
+   "file": "/content/drive/My Drive/CCT_Data/Random/59eab90f-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "max_detection_conf": 0.999,
+   "detections": [
+    {
+     "category": "3",
+     "conf": 0.999,
+     "bbox": [
+      0.001668,
+      0,
+      0.9983,
+      0.5564
+     ]
+    }
+   ]
+  },
+  {
+   "file": "/content/drive/My Drive/CCT_Data/Random/5a0e359b-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "max_detection_conf": 0.999,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.999,
+     "bbox": [
+      0.6096,
+      0.6428,
+      0.2001,
+      0.1791
+     ]
+    }
+   ]
+  },
+  {
+   "file": "/content/drive/My Drive/CCT_Data/Random/59eab87c-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "max_detection_conf": 0.993,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.993,
+     "bbox": [
+      0.5478,
+      0.6692,
+      0.06697,
+      0.2011
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.168,
+     "bbox": [
+      0.532,
+      0.6645,
+      0.09939,
+      0.2275
+     ]
+    }
+   ]
+  },
+  {
+   "file": "/content/drive/My Drive/CCT_Data/Random/59df5c80-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "max_detection_conf": 0.997,
+   "detections": [
+    {
+     "category": "2",
+     "conf": 0.997,
+     "bbox": [
+      0.1231,
+      0.1284,
+      0.3054,
+      0.8067
+     ]
+    },
+    {
+     "category": "3",
+     "conf": 0.147,
+     "bbox": [
+      0.0686,
+      0.4136,
+      0.356,
+      0.4105
+     ]
+    }
+   ]
+  },
+  {
+   "file": "/content/drive/My Drive/CCT_Data/Random/5a0e3644-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "max_detection_conf": 0.999,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.999,
+     "bbox": [
+      0.5129,
+      0.4143,
+      0.1556,
+      0.1487
+     ]
+    }
+   ]
+  },
+  {
+   "file": "/content/drive/My Drive/CCT_Data/Random/59e91ad8-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "/content/drive/My Drive/CCT_Data/Random/5981797f-23d2-11e8-a6a3-ec086b02610b.jpg",
+   "max_detection_conf": 0,
+   "detections": []
+  }
+ ],
+ "detection_categories": {
+  "1": "animal",
+  "2": "person",
+  "3": "vehicle"
+ },
+ "info": {
+  "detection_completion_time": "2020-08-11 01:01:17",
+  "format_version": "1.0"
+ }
+}
